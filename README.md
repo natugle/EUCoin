@@ -23,6 +23,9 @@ Linux:
 
 You can make an extra key pair and add the new public key to one of the empty accounts so you can make transactions
 
+Compiled binaries for Windows and Linux can be downloaded from:
+https://sourceforge.net/projects/eucoin/files/EUCoin-0.1.0/
+
 Hav fun
 
 Nightraven / Björn
